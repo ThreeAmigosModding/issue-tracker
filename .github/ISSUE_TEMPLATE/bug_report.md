@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-description: Report a bug in the project
+about: Report a bug in one of our projects
 labels: [bug]
 body:
   - type: markdown
